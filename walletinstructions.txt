@@ -28,6 +28,8 @@ Go to Help>Debug Window>Console> enter this command and hit Enter key....     se
 The -1 corresponds to the number of processor cores you want to use to mine the coin. -1 uses 1 core, -2 uses 2 cores,
 -3 uses 3 cores, etc.
 
+You can now close the Console window. The wallet will continue to solo mine the coin until the wallet app is closed.
+
 Please look at your cpu properties to find out what your cpu can handle.
 
 
