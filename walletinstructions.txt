@@ -1,0 +1,35 @@
+Download the appropriate wallet from Github...only Windows and Linux wallets are available.
+
+This download generates a false flag for viruses. There are no viruses contained in the file that is downloaded
+from the Valerium repository on Github. Valerium cannot guarantee that if downloaded from other sites or repositories.
+
+
+Windows wallet: 
+Double click the .zip file and it will open a new window with the application file. Drag the application file
+to the desktop. The icon will change to the Valerium coin. 
+
+A new window will pop up asking for a directory to install the application to. The default is C:/ drive but feel free
+to select a custom drive if you have one.
+
+A new window will pop up asking for network access. Please set your preference. Private Network only is recommended.
+
+
+To encrypt the wallet:  
+Go to Settings>Encrypt wallet> Set your password or passphrase...Highly recommend saving as .txt file to external thumb
+drive. DO NOT LOSE this password or passphrase as recovery of the coins without it is impossible.
+
+
+To backup the wallet:
+Go to File>Backup Wallet> Backup the wallet to a secure device such as a thumb drive or other means so that recovery 
+of the wallet is possible in the event of computer or hardware failure.
+
+To mine Valerium:
+Go to Help>Debug Window>Console> enter this command and hit Enter key....     setgenerate true -1
+The -1 corresponds to the number of processor cores you want to use to mine the coin. -1 uses 1 core, -2 uses 2 cores,
+-3 uses 3 cores, etc.
+
+Please look at your cpu properties to find out what your cpu can handle.
+
+
+
+
